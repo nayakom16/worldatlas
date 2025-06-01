@@ -11,6 +11,11 @@ const About = () => {
             </h1>
             <p className="paragraph">
               We are dedicated to exploring the world, one country at a time. Our mission is to provide insightful information and engaging content about different cultures, places, and experiences.
+              We are dedicated to exploring the world, one country at a time. Our mission is to provide insightful information and engaging content about different cultures, places, and experiences.
+              We are dedicated to exploring the world, one country at a time. Our mission is to provide insightful information and engaging content about different cultures, places, and experiences.
+              We are dedicated to exploring the world, one country at a time. Our mission is to provide insightful information and engaging content about different cultures, places, and experiences.
+              We are dedicated to exploring the world, one country at a time. Our mission is to provide insightful information and engaging content about different cultures, places, and experiences.
+              We are dedicated to exploring the world, one country at a time. Our mission is to provide insightful information and engaging content about different cultures, places, and experiences.
             </p>
           </div>
           <div className="hero-image">
