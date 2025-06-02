@@ -21,10 +21,6 @@ const Home = () => {
 
         <div className="hero-image">
           <img src="/world.png" alt="" className='banner-image' />
-          <img src="/world.png" alt="" className='banner-image' />
-          <img src="/world.png" alt="" className='banner-image' />
-          <img src="/world.png" alt="" className='banner-image' />
-          <img src="/world.png" alt="" className='banner-image' />
         </div>
       </div>
     </main>
